@@ -1,0 +1,751 @@
+{
+  "columns": [
+    {
+      "cards": [
+        {
+          "description": "<p>Komplexe Aufträge werden mit Unterstützung einer Projektmanagement-</p><p>Methode gelöst. Auch für \"Macherarbeiten\" müssen die Verhältnisse</p><p>analysiert, das Zielsystem geplant, Varianten verglichen und ein</p><p>Handlungsplan entworfen werden.</p>",
+          "id": "vbh9lqy0pc0448pp9zmlhb84",
+          "name": "Projektmanagement und Planung",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "tizihvmt5hjehjt9kfxy14ld",
+              "name": "1. Die gewählte Projektmanagement-Methode ist im Bericht benannt und passt zum Auftrag;"
+            },
+            {
+              "finished": false,
+              "id": "fatnf95qdz5qsm5mzty9x3b3",
+              "name": "2. Die gewählte Projektmanagement-Methode wurde in der praktischen Arbeit korrekt angewandt;"
+            },
+            {
+              "finished": false,
+              "id": "hrxso9kw6zwg5skqb0ovg2zx",
+              "name": "3. Die korrekte Anwendung der Projektmanagement-Methode ist im IPA- Bericht ersichtlich;"
+            },
+            {
+              "finished": false,
+              "id": "npawmeujz4srgj16rps0yram",
+              "name": "4. Der Auftrag wurde ausgehend von der Aufgabenstellung weiter analysiert und verfeinert."
+            }
+          ]
+        },
+        {
+          "description": "<p>Es stehen vielfältige Informationen zur Verfügung. Der Kandidat kann</p><p>Informationsträger und -kanäle aufgabenbezogen auswählen,</p><p>Informationen bewerten und diese zielführend verwenden.</p>",
+          "id": "sr8ufgu86x93am24bfn59gex",
+          "name": "Wissensbeschaffung",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "nvqpjyb1f5qx6ai1592okowx",
+              "name": "1. Der Nachweis der Wissensbeschaffung ist durch Arbeitsjournal, Projektbericht oder Protokolle zu Fachgesprächen (HE, VF) dokumentiert;"
+            },
+            {
+              "finished": false,
+              "id": "u580593xygpcxqd4tpo7ou7p",
+              "name": "2. Wählte die Informationsquellen aufgabenbezogen aus;"
+            },
+            {
+              "finished": false,
+              "id": "hdldqziknd7ttefceji6bwce",
+              "name": "3. Hat aus den gewählten Informationsquellen die relevanten Informationen identifiziert und genutzt (Transferleistung)"
+            },
+            {
+              "finished": false,
+              "id": "qawcnxs0cxqh1s1ljwd6edgi",
+              "name": "4. Die referenzierten Quellen sind existent und für Projektinvolvierte rekonstruierbar."
+            }
+          ]
+        },
+        {
+          "description": "<p>Um den Fortschritt der Arbeit zu kontrollieren und Abweichungen zum</p><p>Zeitplan frühzeitig zu erkennen, wird regelmässig ein Soll/Ist-Vergleich</p><p>vorgenommen.</p>",
+          "id": "rt0jeo94le3s9j4mw9p4zcvz",
+          "name": "Zeitplan",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "saxq4tt30rab4x8stineacxy",
+              "name": "1. Es wurde eine absolute Zeitachse definiert (Datum)."
+            },
+            {
+              "finished": false,
+              "id": "b7h2gzthro9e6wy4nn6dx7pg",
+              "name": "2. Die Zeitachse hat eine vernünftige Auflösung (1, 2- oder 4- Stundenblöcke)."
+            },
+            {
+              "finished": false,
+              "id": "khsdkf1ejbveni5tpcfouvsf",
+              "name": "3. Zweckmässige Tätigkeiten decken die ganze Arbeit ab"
+            },
+            {
+              "finished": false,
+              "id": "ravzoa1w0tvgjl3mie122sa7",
+              "name": "4. Die Reihenfolge der Tätigkeiten ist sinnvoll."
+            },
+            {
+              "finished": false,
+              "id": "pckc76ce4qvfmnh9vbbvha1f",
+              "name": "5. Die Zeitaufwände für die Tätigkeiten wurden realistisch geplant."
+            },
+            {
+              "finished": false,
+              "id": "ew0ie5e9o04amb0cx1sjwzk3",
+              "name": "6. Der Soll/Ist-Vergleich ist transparent und korrekt."
+            }
+          ]
+        },
+        {
+          "description": "<p>Welche Konzepte wurden angewandt, um die Aufgabe wie auch Lösung</p><p>vereinfacht darzustellen?</p>",
+          "id": "zc6ztd3o5ypjwbbvgpq8woqg",
+          "name": "Konzeptionelle Umsetzung",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "ffm4vxxkbanbod8gw4d7urox",
+              "name": "1. Es wurden Konzepte oder Modelle eingesetzt, um die Aufgabenstellung vereinfacht darzustellen."
+            },
+            {
+              "finished": false,
+              "id": "ypqq6l3kn6m8dx74rh0n2plr",
+              "name": "2. Es wurden Konzepte oder Modelle eingesetzt, um die Lösung vereinfacht darzustellen."
+            },
+            {
+              "finished": false,
+              "id": "krk5bzw9rqijkbn8rk38hpko",
+              "name": "3. Teilsysteme sowie deren Abhängigkeiten sind identifiziert und dokumentiert."
+            },
+            {
+              "finished": false,
+              "id": "zn9onk5fyxzu4mxsnwt8uqrd",
+              "name": "4. Die Abbildung des Gesamtsystems orientiert sich an den ersten drei Punkten."
+            }
+          ]
+        },
+        {
+          "description": "<p>Die Einbettung des Auftrages ins Umfeld ist dokumentiert.</p><p></p><p></p>",
+          "id": "opa0vk70w61x0ty1kp7obf3t",
+          "name": "Projektumfeld: Systemgrenzen / Schnittstellen zur\nAussenwelt",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "twrd2taahav5da241xtshut3",
+              "name": "Der Kandidat kennt die Abgrenzung seines Auftrages zum Umfeld und kann dieses beschreiben. Allfällige Schnittstellen sind ihm im Detail bekannt und dokumentiert."
+            }
+          ]
+        },
+        {
+          "description": "<p>Wie setzt sich ein Testkonzept zusammen? Welche Voraussetzungen</p><p>müssen erfüllt sein, damit Testergebnisse reproduziert werden können?</p>",
+          "id": "p0rvrf4gay9cth5om00frdyl",
+          "name": "Testkonzept",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "i3g57h4669uangk0pnhq4nmb",
+              "name": "1. Das Testkonzept beschreibt das zu testende System sowie dessen Umgebung."
+            },
+            {
+              "finished": false,
+              "id": "t6lcff2o7b52z97pk1ak806e",
+              "name": "2. Das Testkonzept beschreibt die relevanten Testfälle inkl. der zu erwartenden Ergebnisse."
+            },
+            {
+              "finished": false,
+              "id": "gry3l5t10qeh3j8txnjib1hw",
+              "name": "3. Das Testkonzept begründet nachvollziehbar, was bewusst nicht getestet wird."
+            },
+            {
+              "finished": false,
+              "id": "dp35y5bi7724i115qzbsxx2i",
+              "name": "4. Das Testkonzept beschreibt die relevanten Testmittel (Hardware, Netzwerk etc.)"
+            },
+            {
+              "finished": false,
+              "id": "npw2hri1vtsvqmvwa1hns139",
+              "name": "5. Das Testkonzept beschreibt die verwendete(n) Testmethode(n)"
+            }
+          ]
+        }
+      ],
+      "id": "fbexux4kw1q9lzm2va84h3x2",
+      "title": "Analyse und Konzept"
+    },
+    {
+      "cards": [
+        {
+          "description": "<p>Welche Leistung legte der Kandidat an den Tag?</p>",
+          "id": "a0hlbd6mi1z8wz2apyegqnq7",
+          "name": "Leistungsfähigkeit",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "be4rqxyw0eo9oiy04jdu2i5e",
+              "name": "1. Der Kandidat arbeitete durchwegs engagiert; es gab keine Zeichen von Gleichgültigkeit."
+            },
+            {
+              "finished": false,
+              "id": "x0k37manve4uqmb4h14nh9dr",
+              "name": "2. Der Kandidat geriet nicht in Stresssituationen oder konnte mit diesen souverän umgehen."
+            },
+            {
+              "finished": false,
+              "id": "xhqlllv70vd30e6r73ch8cue",
+              "name": "3. Der Kandidat arbeitete zielorientiert"
+            },
+            {
+              "finished": false,
+              "id": "zo2qfvrgu0u3zh4uokdhp7rb",
+              "name": "4. Der Kandidat berücksichtigte die zeitlichen Vorgaben"
+            },
+            {
+              "finished": false,
+              "id": "ottvknum47j9sxwr9ao5wxuc",
+              "name": "5. Der Kandidat dachte über die Aufgabenstellung hinaus und ergänzte nach Möglichkeit eigenständig fehlende Elemente."
+            }
+          ]
+        },
+        {
+          "description": "<p>Der Kandidat beschafft sich notwendige Informationen, sucht und zeigt</p><p>Lösungsvarianten auf. Er teilt sich die Arbeit ein und bestimmt so den</p><p>Verlauf seiner IPA</p>",
+          "id": "kzijqlglwipp3nueuovnzul2",
+          "name": "Selbständiges Arbeiten",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "ef6gnmgnzxlhfrmldu4sky38",
+              "name": "1. Kann Wesentliches von Unwesentlichem trennen und Prioritäten setzen."
+            },
+            {
+              "finished": false,
+              "id": "rbhfjgon58x566a4p046o4md",
+              "name": "2. Kommt durch die ihm zur Verfügung stehenden Mittel selbständig zu den benötigten Informationen. Sucht oder zeigt Lösungsvarianten auf."
+            },
+            {
+              "finished": false,
+              "id": "phgkdusd91238bixnobtba9u",
+              "name": "3. Kann die Arbeit gut einteilen und benötigt keine ungerechtfertigte Unterstützung durch andere Fachleute."
+            },
+            {
+              "finished": false,
+              "id": "rz8q27pe1me1yqp32dyckzqh",
+              "name": "4. Kann seine Arbeit selbständig organisieren und die gesetzten Ziele werden erreicht auch wenn Probleme auftreten"
+            }
+          ]
+        },
+        {
+          "description": "<p>Die Fachperson unterscheidet sich vom Laien dadurch, dass ihr Handeln</p><p>durch das Anwenden von situationsgerechter Fachkenntnis und</p><p>Anwendungskompetenz bestimmt ist. Sie weiss nicht nur, was sie tut,</p><p>sondern auch warum und wie sie es richtig tut. Effizientes Arbeiten</p><p>verlangt, dass man die dafür benötigten Produkte und Methoden gut</p><p>kennt und deren Handhabung sicher beherrscht.</p>",
+          "id": "u2qlsmzu24zv0ye5i4c7az1x",
+          "name": "Fachkenntnisse und Anwendungskompetenz",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "s3iklhogrdp58d8ammg40niy",
+              "name": "Der Kandidat hat über die ganze Arbeit gezeigt, dass er die technischen und fachlichen Grundlagen für sein Handeln kennt und situationsgerecht anwendet. Der Kandidat kann die für seine Arbeit benötigten Fähigkeiten der eingesetzten Produkte sicher anwenden und nutzt sie zielgerichtet, routiniert und fehlerfrei."
+            }
+          ]
+        },
+        {
+          "description": "<p>Der fachliche Sprachschatz (Wortschatz, Begrifflichkeiten, …) der</p><p>Informatik dient der Erläuterung spezifischer Sachverhalte. Die</p><p>Verwendung der Fachausdrücke erfolgt sinngemäss, ist korrekt und der</p><p>Kandidat kann eingesetzte Fachbegriffe verständlich und korrekt</p><p>erklären.</p>",
+          "id": "kk19ee89kqbs48lvokii4bxa",
+          "name": "Anwendung der Fachsprache",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "bulyylnvadm49ko4c4jscend",
+              "name": "1. Zur Erläuterung spezifischer Sachverhalte setzt der Kandidat die Fachbegriffe konsequent ein."
+            },
+            {
+              "finished": false,
+              "id": "zhoqwh1xmmc33k8zouqv3p8p",
+              "name": "2. Dabei werden die richtigen Fachbegriffe präzise eingesetzt."
+            },
+            {
+              "finished": false,
+              "id": "nvga03giwokavruibd2u9ju3",
+              "name": "3. Die Fachbegriffe werden an den benötigten Stellen eingesetzt und können bei Nachfrage durch den Kandidaten erläutert werden."
+            },
+            {
+              "finished": false,
+              "id": "ez7fuvke63e49c28dkjznnx8",
+              "name": "4. Die Erklärung zu den Fachbegriffen ist fachlich korrekt."
+            }
+          ]
+        },
+        {
+          "description": "<p>Es werden der jeweiligen Aufgabe entsprechend die richtigen Arbeits-</p><p>und Fachmethoden korrekt angewendet.</p>",
+          "id": "xv6l2h70hhmw9fcfpr7adu7k",
+          "name": "Arbeits- und Fachmethodik",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "v49ljpplnfsarxgmcm639hak",
+              "name": "Wählte den Aufgaben entsprechend geeignete Fachmethoden und Arbeitstechniken aus. Diese wurden korrekt angewandt und vollständig umgesetzt."
+            }
+          ]
+        },
+        {
+          "description": "<p>Eine durchgängig organisierte Dokumentenablage unterstützt den</p><p>Kandidaten bei der Entwicklung seiner Arbeitsergebnisse</p><p>(Dokumentation, Sourcecode, Handbücher etc.). Um jederzeit auf die</p><p>Ergebnisse zugreifen zu können, unterhält er eine</p><p>Dokumentenorganisation und -sicherung. Dies ist im IPA-Bericht</p><p>ersichtlich und nachvollziehbar.</p>",
+          "id": "akiv5ip8mkj7gcgavl1xetp4",
+          "name": "Organisation der Arbeitsergebnisse",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "n0cdxaw5k4ww17csur9a4in3",
+              "name": "1. Die Arbeitsergebnisse (schliesst die Dokumente ein) sind ihrem Entwicklungsstand angemessen versioniert."
+            },
+            {
+              "finished": false,
+              "id": "pb6sfigfjppds2uflvob68ol",
+              "name": "2. Auf die Versionen der Arbeitsergebnisse kann jederzeit zugegriffen werden."
+            },
+            {
+              "finished": false,
+              "id": "jr1tmj1wfow6yomplsjn2fk6",
+              "name": "3. Es besteht eine tägliche Sicherung der Arbeitsergebnisse."
+            },
+            {
+              "finished": false,
+              "id": "q7lua0kvyxwpi9b3fjxzcd38",
+              "name": "4. Die Wiederherstellung der gesicherten Arbeitsergebnisse ist sichergestellt."
+            },
+            {
+              "finished": false,
+              "id": "uznyid768ytco1dhhkn0kl7c",
+              "name": "5. Punkte 1-4 sind im IPA-Bericht beschrieben und nachvollziehbar."
+            }
+          ]
+        },
+        {
+          "description": "<p>Wie ist der Erfüllungsgrad des Resultats einzustufen?</p>",
+          "id": "hvunvjycf8sm6oh1hxx3svjc",
+          "name": "IPA-Erfüllungsgrad",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "kymf5y3bptocwlkjs03ba2xp",
+              "name": "1. Das Resultat entspricht den Anforderungen gemäss Aufgabenstellung."
+            },
+            {
+              "finished": false,
+              "id": "y32g1cc7gzc205jdhltjiqth",
+              "name": "2. Das Resultat entspricht der Arbeit einer Fachperson."
+            },
+            {
+              "finished": false,
+              "id": "h8y67c3dsos7t8h41r9ue361",
+              "name": "3. Das Potential wurde im Rahmen der vorgegebenen Zeit ausgeschöpft"
+            }
+          ]
+        }
+      ],
+      "id": "sytbyermohoc86g7a94in3ig",
+      "title": "Realisierung und Testing"
+    },
+    {
+      "cards": [
+        {
+          "description": "<p>Die Grundfunktion des Vault AddIns sind funktional vollständig und</p><p>selbsterklärend umgesetzt:</p><p>- Einträge zur Auswahl anbieten (nach URL, Name)</p><p>- Eintrag anwenden (Copy&amp;Paste Benutzername und PW in Loginmaske)</p><p>- Aufruf des Vault-Eintrages im Web Interface</p>",
+          "id": "g65ivhljuasv5zxal3fphe93",
+          "name": "Grundfunktion des Vault AddOns",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "r62yvt1csugv22yw564qmjg2",
+              "name": "Alle Grundfunktionen sind funktional und selbsterklärend umgesetzt"
+            }
+          ]
+        },
+        {
+          "description": "<p>Ist die Lösung mittels Authentisierung und Autorisierung auf Frontend und</p><p>API ebene genügend abgesichert?</p><p>- Integrated Security mittels Kerberos Delegation</p><p>- Berücksichtigung der Zugangsberechtigungen der jeweiligen User</p><p>- Es werden stets nur berechtigte Einträge angezeigt, ans Front-End</p><p>übermittelt und verarbeitet.</p>",
+          "id": "rfj38q2wg1s9bo73sr0fphip",
+          "name": "Security",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "s6y92x85hnsd1t5966kbdob1",
+              "name": "Alle Aspekte wurden vollständig umgesetzt und konzeptionell beschrieben"
+            },
+            {
+              "finished": false,
+              "id": "bs1yqhfl5clhxj4v1dbnj1rk",
+              "name": "Alle Aspekte sind konzeptionell vorgesehen und beschrieben aber erst 2 von 3 umgesetzt"
+            }
+          ]
+        },
+        {
+          "description": "<p>Ist der Code lesbar geschrieben, gut gegliedert und ist die Namensgebung</p><p>gut gewählt?</p>",
+          "id": "hkkcbo0da3c7a1p3l7ghupus",
+          "name": "Codingstyle - lesbarer Code",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "y3ou7abvwvipjm17zp5pobfy",
+              "name": "Die Namensgebung entspricht den Vorgaben oder ist einfach gut gewählt. Die Struktur des Codes ist ebenfalls gemäss möglicher Richtlinien oder einfach übersichtlich gemacht. Es ist eine gewisse Einheit zu sehen in der Art und Weise, wie der Code strukturiert ist (d.h. es ist überall etwa gleich gemacht)."
+            }
+          ]
+        },
+        {
+          "description": "<p>Stellt ein diverses Testset die Funktionalität sowie Integration der Browser Extension sicher</p><p>Es sind folgende Testarten vorhanden:</p><p>Unittest, welche einzelne Funktionalität der Browser Extension testen</p><p>Integrationtest, welche die Integration von der Browser Extension zu einem gemocketen Backend testen</p><p>Systemtest, welche die komplette Lösung testen</p>",
+          "id": "dlsvzqk7jd5gr47x9pv73ucq",
+          "name": "Testing",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "uo9h8enroallp8a0aebukjud",
+              "name": "Unittest, welche einzelne Funktionalität der Browser Extension testen"
+            },
+            {
+              "finished": false,
+              "id": "t61fsj78ximpb4zqrtaa5kl5",
+              "name": "Integrationtest, welche die Integration von der Browser Extension zu einem gemocketen Backend testen"
+            },
+            {
+              "finished": false,
+              "id": "j4j7m2fpjt9vu497aeosb4uk",
+              "name": "Systemtest, welche die komplette Lösung testen"
+            }
+          ]
+        },
+        {
+          "description": "<p>Ist die Auftrennung nach dem MVC-Pattern konsequent durchgeführt und</p><p>sind Abweichungen vom Pattern beschrieben und begründet?</p>",
+          "id": "nqda3z1s3j1vwyjk8201evi2",
+          "name": "MVC (Programmierung)",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "yygwsfrx0z436gh3hv2xm1on",
+              "name": "M: konsequent nur Datenaufbereitung für GUI"
+            },
+            {
+              "finished": false,
+              "id": "w7hkr62fr48c07lgq17gyevc",
+              "name": "V: konsequent nur Darstellung (GUI)"
+            },
+            {
+              "finished": false,
+              "id": "lpwkzhz1y3xwvxki2hejfr7u",
+              "name": "C: konsequent nur Ablaufsteuerung und Validierung"
+            },
+            {
+              "finished": false,
+              "id": "fdvkpilgawsb2uqlsv42d5r6",
+              "name": "Sind die Firmenstandards bzw. Firmenusanzen betreffend Realisierung eingehalten?"
+            },
+            {
+              "finished": false,
+              "id": "ievil5zz58h60ubs76140owo",
+              "name": "Sind die Schnittstellen im Code klar ersichtlich?"
+            }
+          ]
+        },
+        {
+          "description": "<p>Werden die verwendete API Calls nachvollziehend dokumentiert und deren</p><p>Verwendung begründet.</p>",
+          "id": "nugw3xa9q5xomz3y70mgurfi",
+          "name": "Integrationskonzept ans existierende Backend ",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "gsjpgl0m0m1jvdixgi6e9tlu",
+              "name": "Alle verwendeten API Calls sind vollständig aufgelistet und vollständig dokumentiert."
+            }
+          ]
+        },
+        {
+          "description": "<p>Fehlerbehandlung: Werden mögliche Fehler mit den entsprechenden Mitteln erkannt und behandelt?</p>",
+          "id": "afyo3edf6solytm94xwkpilo",
+          "name": "Codierung: Fehlerbehandlung ",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "g3t9b2vgm2nqcdiaoosdludc",
+              "name": "Es wurde eine Strategie zur Fehlerbehandlung eingeführt und im ganzen Code konsistent verwendet."
+            }
+          ]
+        }
+      ],
+      "id": "fivfp7xq3lb2lwzjahbyji8d",
+      "title": "Individuelle Kriterien"
+    },
+    {
+      "cards": [
+        {
+          "description": "<p>Eine konzeptionelle Zusammenfassung der Arbeit und des erarbeiteten</p><p>Ergebnisses erleichtert dem mit dem Projekt befassten Leser des</p><p>Berichts</p><p>(verantwortlichen Fachkraft, Experten) den Einstieg für das Verständnis</p><p>der geleisteten Arbeit. Die Kurzfassung enthält nur Text und keine</p><p>Grafik.</p>",
+          "id": "v93guwnt046p0m9uoyiohi3m",
+          "name": "Kurzfassung des IPA-Berichtes",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "f5yczm7zi2rye0tyf6xmrapg",
+              "name": "1. Die Kurzfassung richtet sich an die fachlich kompetenten Leser"
+            },
+            {
+              "finished": false,
+              "id": "c5n2gzobmomllgdyxgkfvmyx",
+              "name": "2. Die Kurzfassung enthält die Punkte: Kurze Ausgangssituation - Umsetzung - Ergebnis."
+            },
+            {
+              "finished": false,
+              "id": "hgfp3hbkyfaqqtwxid6bb78l",
+              "name": "3. Die Kurzfassung enthält zu jedem dieser genannten Punkte die wesentlichen Aspekte."
+            },
+            {
+              "finished": false,
+              "id": "u0vyb5lc5r4qi1ovup05tg7a",
+              "name": "4. Die Kurzfassung ist nicht länger als eine A4-Seite Text und enthält keine Grafik"
+            }
+          ]
+        },
+        {
+          "description": "<p>Im Arbeitsjournal werden die täglichen Arbeiten, aufgetretenen Probleme</p><p>sowie allfälligen Hilfestellungen, Überzeiten und ungeplanten Arbeiten</p><p>festgehalten. Das Arbeitsjournal ist strukturiert und nimmt Bezug auf</p><p>den Zeitplan.</p>",
+          "id": "ej2fic3os4mj3qqxubmnbadc",
+          "name": "Führung des Arbeitsjournals",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "afza9xsu4qooile5ttek97zl",
+              "name": "1. Die Darstellung ist übersichtlich, klar und verständlich."
+            },
+            {
+              "finished": false,
+              "id": "zh6rdxd0ippyr23l3otd4ypu",
+              "name": "2. Alle Aktivitäten gemäss Zeitplan sowie Überzeiten und ungeplante Arbeiten sind erwähnt."
+            },
+            {
+              "finished": false,
+              "id": "lr1l84upc7og9tjzpmp9bffi",
+              "name": "3. Erfolge und Misserfolge sind erwähnt"
+            },
+            {
+              "finished": false,
+              "id": "pcktax75udj136n2kshpvicz",
+              "name": "4. Alle beanspruchten Hilfestellungen sind erwähnt und begründet."
+            }
+          ]
+        },
+        {
+          "description": "<p>Die Reflexion lenkt die Aufmerksamkeit darauf, wie die Aufgabe als</p><p>Ganzes gelöst wurde und was man selber besser machen könnte. Diese</p><p>Erkenntnisse sind im Arbeitsjournal und im Schlusswort dokumentiert</p>",
+          "id": "jwg1px76u8vb35d7puc0p1zu",
+          "name": "Reflexionsfähigkeit",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "iysglos5ps3fmhyr6idovool",
+              "name": "1. Hat im Arbeitsjournal seine Vorgehensweise und das Ergebnis kritisch hinterfragt"
+            },
+            {
+              "finished": false,
+              "id": "gfgut8zi82fne6faia315b55",
+              "name": "2. Vergleicht mögliche Lösungs-Varianten oder begründet, weshalb es keine Varianten gibt."
+            },
+            {
+              "finished": false,
+              "id": "d2zoiu44ym00z6vqlflz4df6",
+              "name": "3. Zieht im Schlusswort nachvollziehbare Schlüsse aus seiner eigenen Reflexion"
+            },
+            {
+              "finished": false,
+              "id": "d7y0z4v5u5jnogu0ti4ji2gi",
+              "name": "4. Das Schlusswort enthält eine persönliche Bilanz."
+            }
+          ]
+        },
+        {
+          "description": "<p>Eine Dokumentation ist dann verständlich, wenn sie für eine</p><p>aussenstehende Fachperson nachvollziehbar aufgebaut ist. Die einzelnen</p><p>Schritte folgen einem roten Faden bzw. einer übersichtlichen Gliederung.</p>",
+          "id": "f2k6folujjtbm6p5cmbrwmch",
+          "name": "Gliederung",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "wrdy1im2q6t4a7kqbgubrzj6",
+              "name": "1. Der IPA-Bericht ist in eine zu den Themen und Schwerpunkten passende Kapitelstruktur unterteilt."
+            },
+            {
+              "finished": false,
+              "id": "ggt70uwjatzhg7wa2z5cdtc6",
+              "name": "2. Der IPA-Bericht ist übersichtlich gegliedert und eingesetzte Überschriften sind mit entsprechenden Inhalten gefüllt."
+            },
+            {
+              "finished": false,
+              "id": "qyg62kaam8c7o4fjzawhyb74",
+              "name": "3. Die Reihenfolge der Themen im IPA-Bericht ist aufeinander abgestimmt."
+            },
+            {
+              "finished": false,
+              "id": "coh1vnqhx917w9qf4hm1qek3",
+              "name": "4. Die Gestaltung von Überschriften, Texten und Grafiken erleichtert den Lesefluss und behindert ihn nicht"
+            }
+          ]
+        },
+        {
+          "description": "<p>Der Verfasser bringt im IPA-Bericht den Inhalt auf den Punkt und</p><p>vermittelt dabei die relevanten Informationen ohne Ballast</p><p></p><p>Probleme:</p><p>Text zu lang (Ballast) / Text redundant / Text irrelevant / Wichtige</p><p>Informationen fehlen / Zum Verständnis erforderliche Erläuterungen</p><p>fehlen.</p>",
+          "id": "p0xfaya20sdwqlfwhdkgpa4y",
+          "name": "Prägnanz",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "wgjo8odcsawti6ewqefg260b",
+              "name": "Der Text des IPA-Berichtes ist hinsichtlich der Prägnanz bestmöglich gestaltet. Er ist durchgängig oder mit höchstens einer Ausnahme so ausführlich wie für das Verständnis erforderlich und enthält weder Ballast noch unnötige Redundanzen."
+            }
+          ]
+        },
+        {
+          "description": "<p>An dieser Stelle wird die formale Vollständigkeit des IPA-Berichts</p><p>bewertet, gemäss den Vorgaben des kantonalen Chefexperten. Bei</p><p>Kantonen ohne gedruckte Version gilt die digitale Form als</p><p>bewertungsrelevant.</p>",
+          "id": "a079r7aog10oiebx3eewtnsi",
+          "name": "Formale Vollständigkeit des IPA-Berichts",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "mn18w3hy8xt340wdq9miq3ez",
+              "name": "1. Der IPA-Bericht ist in Teil 1 (obligatorische Kapitel) und Teil 2 (Projekt-Dokumentation) unterteilt. Ein allfälliger Quellcode ist im Anhang vorhanden;"
+            },
+            {
+              "finished": false,
+              "id": "w4uzzzhn3ay1hcikhnevzv29",
+              "name": "2. Teil 1 enthält: Projektaufbauorganisation, Zeitplan, Arbeitsjournal"
+            },
+            {
+              "finished": false,
+              "id": "i48kzlk7vr7sa1ln04ggq1y9",
+              "name": "3. Der IPA-Bericht enthält ein aktuelles Inhaltsverzeichnis"
+            },
+            {
+              "finished": false,
+              "id": "t7ovy4fvbcuwxg2a349qw9jm",
+              "name": "4. ...zu sämtlichen Quellen besteht ein schriftlicher Nachweis, die referenzierten Quellen sind gültig und verlässlich"
+            },
+            {
+              "finished": false,
+              "id": "r01uazv2mrzmgdrer2zytptr",
+              "name": "5. ...auf allen Seiten (optional Titelblatt) eine Kopf- oder Fusszeile mit dem aktuellen Druckdatum und dem Namen des Kandidaten;"
+            },
+            {
+              "finished": false,
+              "id": "q3ubkojy9bcnpaj4ry1f0p5z",
+              "name": "6. ...ein alphabetisch sortiertes Glossar mit korrekten Erläuterungen der verwendeten Fachbegriffe und Abkürzungen, welche einer aussenstehenden Fachperson unbekannt sein dürften."
+            }
+          ]
+        },
+        {
+          "description": "<p>Die Art des sprachlichen Ausdrucks ist bedeutend für die Weitergabe und</p><p>Verständlichkeit von Informationen und Ergebnissen. Die Verwendung</p><p>angemessener Fachbegriffe, deren korrekte und adressatengerechte</p><p>Anwendung (z.B. IT-Abteilung, Fachleute, Aussenstehende) sind für</p><p>Informatiker ein wichtiges Verständigungsmittel. Die Rechtschreibung</p><p>und Grammatik beeinflussen die Lesbarkeit und Verständlichkeit des</p><p>Textes wesentlich. Durch sorgfältiges Arbeiten und den korrekten Einsatz</p><p>gängiger Hilfsmittel (Rechtschreibprüfung, Lexika) sind Schreibfehler zu</p><p>vermeiden</p>",
+          "id": "fcnri22i4l1t93w7nzq0on71",
+          "name": "Sprachlicher Ausdruck und Stil / Rechtschreibung und\nGrammatik",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "ejupaiok9el0e2x91zj2jql5",
+              "name": "1. Die Sprache ist durchgehend klar verständlich (Satzbau, Wortstellungen), in einem flüssigen Stil sowie in vollständigen und ausformulierten Sätzen geschrieben."
+            },
+            {
+              "finished": false,
+              "id": "zn4pprxcgfd2q182qvqcx3lt",
+              "name": "2. Fachbegriffe werden korrekt und adressatengerecht eingesetzt."
+            },
+            {
+              "finished": false,
+              "id": "uioobo1pnl9wgunoht0b59tb",
+              "name": "3. Der IPA-Bericht enthält nur wenige Rechtschreib- oder Grammatikfehler"
+            }
+          ]
+        },
+        {
+          "description": "<p>Der IPA-Bericht spiegelt die praktische Arbeit wider. Die Darstellung ist</p><p>ein Zeichen für Übersichtlichkeit und Zweckmässigkeit der Arbeit des</p><p>Kandidaten.</p>",
+          "id": "b90bry2poo1lffmavton3864",
+          "name": "Darstellung",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "pi9mhcxx835wgsr7q9pzfvzr",
+              "name": "1. Die Darstellung enthält eine geeignete Seitennummerierung"
+            },
+            {
+              "finished": false,
+              "id": "nuut7n2w1flwp7dejmlrps0c",
+              "name": "2. Der Seitenumbruch ist sinnvoll oder behindert den Lesefluss nicht"
+            },
+            {
+              "finished": false,
+              "id": "p05a43bzx8glptlo0jqjf4ax",
+              "name": "3. Jede Seite enthält Informationen und nicht nur eine einzelne Textzeile oder Überschrift"
+            },
+            {
+              "finished": false,
+              "id": "gxlw4tnt6ijrb2dw0k9t1ebe",
+              "name": "4. Die Darstellung ist zweckmässig und sauber."
+            }
+          ]
+        },
+        {
+          "description": "<p>Grafiken, Bilder, Diagramme und Tabellen werden verwendet, um etwas</p><p>Komplexes übersichtlich darzustellen, etwas verständlich zu machen</p><p>oder auch zu gliedern.</p>",
+          "id": "ldmvmlnlg986acvsqz2a2xm1",
+          "name": "Grafiken, Bilder, Diagramme und Tabellen",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "iyg8355p0bcnhq4jvo9ohcuv",
+              "name": "1. Es werden an vernünftigen Stellen Grafiken, Bilder, Diagramme oder Tabellen eingesetzt, um die Inhalte im IPA-Bericht besser darzustellen und den Text verständlicher zu machen;"
+            },
+            {
+              "finished": false,
+              "id": "s7jl5trhwbbb9p0wpef3mcjt",
+              "name": "2. Die Wahl der Darstellungen ist durchgehend geeignet"
+            },
+            {
+              "finished": false,
+              "id": "jiy8l3qcykrg25d71g53nqj5",
+              "name": "3. Die Darstellung ist kontrastreich und optisch gut lesbar (als Referenz dient der Ausdruck auf Format A4);"
+            },
+            {
+              "finished": false,
+              "id": "sx1injp81jkkay1rw6gffwia",
+              "name": "4. Die Darstellungen sind inhaltlich verständlich;"
+            },
+            {
+              "finished": false,
+              "id": "qjuonwu11ecgpuz5xbphkis6",
+              "name": "5. Die Darstellungen sind aussagekräftig;"
+            },
+            {
+              "finished": false,
+              "id": "on08fh9cvavb9p9hccexrfhq",
+              "name": "6. Die Darstellungen sind im Text oder in einer Legende erklärt;"
+            },
+            {
+              "finished": false,
+              "id": "xh4gbcnd1tlr4zr7j5da2qcu",
+              "name": "7. Die Darstellungen passen zum Kontext"
+            }
+          ]
+        },
+        {
+          "description": "<p>Zu welchen Ergebnissen und Erkenntnissen führt die Testdurchführung?</p>",
+          "id": "pfsheitnwwery94suoqt21t7",
+          "name": "Durchführung und Auswertung der Tests",
+          "tasks": [
+            {
+              "finished": false,
+              "id": "kiqm8u4ghvmrd2m1upa3z6vh",
+              "name": "1. Die Testdurchführung basiert auf dem Testkonzept; dies ist entsprechend dokumentiert (inkl. allfälliger Abweichungen davon)."
+            },
+            {
+              "finished": false,
+              "id": "vnbb8es7k1cglod1yw1vsz87",
+              "name": "2. Alle Testresultate sind korrekt und übersichtlich dokumentiert"
+            },
+            {
+              "finished": false,
+              "id": "xf7pec1xd6komj3es8509k80",
+              "name": "3. Das Testprotokoll beinhaltet Angaben über den Testzeitpunkt, die Testperson sowie allfällige spezifische Informationen."
+            },
+            {
+              "finished": false,
+              "id": "kb5lfg4k3i76pieyexxthlzq",
+              "name": "4. Es wird ein aussagekräftiges Fazit zum Testergebnis (pro Testfall) gezogen und es werden allfällige notwendige Massnahmen/Empfehlungen beschrieben."
+            }
+          ]
+        }
+      ],
+      "id": "pkti24g2q8tqox7qwsrikcrv",
+      "title": "Dokumentation"
+    }
+  ],
+  "id": "yyl8jpj18q95yu4800bpdeon",
+  "lastEdited": "2024-04-30T07:43:12.751Z",
+  "title": "IPA Kriterienkatalog"
+}
